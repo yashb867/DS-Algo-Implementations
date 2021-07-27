@@ -11,5 +11,7 @@ Queue
 
 Trees
 
+Graphs
+
 Bit Manipulation
 
